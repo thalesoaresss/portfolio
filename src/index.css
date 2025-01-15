@@ -88,3 +88,9 @@ body{
 .grid-skills{
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 }
+.grid-cards{
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+.title-1{
+  @apply text-[22px] font-normal
+}
