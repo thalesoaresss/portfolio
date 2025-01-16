@@ -67,7 +67,7 @@ const Work = () => {
           ))}
         </div>
         <div className="mt-3">
-          <a href="https://github.com/thalesoaresss" className="text-zinc-400 mt-8 pt-6 mb-8 max-w-[50ch] hover:text-zinc-100 active:text-zinc-400 transition-colors text-xl" target="blank">Confira mais projetos no meu github </a>
+          <a href="https://github.com/thalesoaresss" className="text-zinc-400 mt-8 pt-6 max-w-[50ch] hover:text-zinc-100 active:text-zinc-400 transition-colors text-xl" target="blank">Confira mais projetos no meu github </a>
         </div>
       </div>
     </section>
