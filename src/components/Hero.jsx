@@ -25,7 +25,7 @@ const Hero = () => {
             Impulsionando a Inovação com Desenvolvimento de Excelência.
           </h2>
           <div className="flex items-center gap-3">
-              <ButtonPrimary label="Download CV" icon={'download'}/>
+              <ButtonPrimary label="Download CV" icon={'download'} download={true} href={'/images/Curriculo.pdf'}/>
 
               <ButtonOutline href={"#about"} label="Scroll down" icon={"arrow-downward"}/>
           </div>
